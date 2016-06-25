@@ -10,6 +10,7 @@ gem 'bootstrap-will_paginate', '0.0.10'
 group :development, :test do
   gem 'sqlite3', '1.3.11'
   gem 'rspec-rails', '>=2.13.1'
+  gem 'rspec-its', '~> 1.2.0'
   gem 'byebug'
 end
 
